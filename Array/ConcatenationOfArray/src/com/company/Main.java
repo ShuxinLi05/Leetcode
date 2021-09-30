@@ -10,7 +10,6 @@ public class Main {
         int[] nums2 = {1,3,2,1};
         getConcatenation(nums1);
         getConcatenation(nums2);
-
     }
 
     public static int[] getConcatenation(int[] nums) {
