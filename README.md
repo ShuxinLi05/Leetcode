@@ -1,4 +1,4 @@
-# Leetcode Practice Questions
+# LeetCode Practice Questions
 
 ## Array
 ### Easy:
