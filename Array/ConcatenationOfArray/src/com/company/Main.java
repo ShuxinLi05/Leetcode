@@ -12,6 +12,7 @@ public class Main {
         getConcatenation(nums2);
     }
 
+
     public static int[] getConcatenation(int[] nums) {
 
         int[] ans = new int[nums.length * 2];
