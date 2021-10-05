@@ -9,6 +9,6 @@
 
 ## Matrix
 ### Easy:
-- [LeetCode Question 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/); [LeetCode Question 867. Transpose Matrix]()
+- [LeetCode Question 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/); [LeetCode Question 867. Transpose Matrix](https://github.com/ShuxinLi05/Leetcode/blob/main/Matrix/TransposeMatrix/src/com/company/Main.java)
 
 ## Trees
