@@ -23,4 +23,4 @@
 
 ### Medium:
 - [LeetCode Question 48. Rotate Image](https://leetcode.com/problems/rotate-image/); [Github 48 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Matrix/RotateImage/src/com/company/Main.java)
-- [LeetCode Question 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [LeetCode Question 54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/); [Github 54 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Matrix/SpiralMatrix/src/com/company/Main.java)
