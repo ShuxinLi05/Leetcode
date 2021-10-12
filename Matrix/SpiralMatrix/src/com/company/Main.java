@@ -10,11 +10,8 @@ public class Main {
         int[][] matrix2= {{1,2,3,4},{5,6,7,8},{9,10,11,12}};
         spiralOrder(matrix1);
         spiralOrder(matrix2);
-        //System.out.println(spiralOrder(matrix1));
-        //System.out.println(spiralOrder(matrix2));
 
     }
-
 
     public static List<Integer> spiralOrder(int[][] matrix) {
 
