@@ -7,6 +7,9 @@
 - [LeetCode Question 243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/); [Github 243 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/ShortestWordDistance/src/com/company/Main.java)
 - [LeetCode Question 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/); [Github 283 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MoveZeroes/src/com/company/Main.java)
 
+### Medium:
+- [LeetCode Question 33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/); [Github 33 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SearchinRotatedSortedArray/src/com/company/Main.java)
+
 ## String
 ### Easy:
 - [LeetCOde Question 205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/); [Github 205 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/IsomorphicString/src/com/company/Main.java)
