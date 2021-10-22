@@ -15,6 +15,7 @@
 - [LeetCOde Question 205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/); [Github 205 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/IsomorphicString/src/com/company/Main.java)
 - [LeetCode Question 415. Add Strings](https://leetcode.com/problems/add-strings/); [Github 415 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/AddString/src/com/company/Main.java)
 - [LeetCode Question 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/); [Github 125 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ValidPalindrome/src/com/company/Main.java)
+- [LeetCode Question 28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 
 ### Medium:
 - [LeetCode Question 151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/); [Github 151 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ReverseWordsInAString/src/com/company/Main.java)
