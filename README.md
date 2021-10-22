@@ -14,7 +14,7 @@
 - [LeetCode Q283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - [LeetCode Q448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [LeetCode Q136. Single Number](https://leetcode.com/problems/single-number/)
-- [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+- [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/);[Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
 - [LeetCode Q]()
 
 ### Medium:
