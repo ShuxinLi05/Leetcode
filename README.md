@@ -30,7 +30,7 @@
 - [LeetCode Q696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/); [Github 696 Solution]
 - [LeetCode Q13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/); [Github 13 Solution]
 - [LeetCode Q680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/); [Github 680 Solution]
-- [LeetCode Q14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/); [Github 14 Solution]
+- [LeetCode Q14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/); [Github 14 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/LongestCommonPrefix/src/com/company/Main.java)
 - [LeetCode Q387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/); [Github 387 Solution]
 - [LeetCode Q]()
 
