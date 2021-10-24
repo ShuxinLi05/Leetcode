@@ -45,7 +45,7 @@
 - [LeetCode Q811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/),
   [Github 811 Solution]
 - [LeetCode Q1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/),
-  [Github  Solution]
+  [Github 1011 Solution]
 - [LeetCode Q189. Rotate Array](https://leetcode.com/problems/rotate-array/),
   [Github 189 Solution]
 - [LeetCode Q162. Find Peak Element](https://leetcode.com/problems/find-peak-element/),
@@ -57,11 +57,11 @@
 - [LeetCode Q73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/),
   [Github 73 Solution]
 - [LeetCode Q334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/),
-  [Github  Solution]
+  [Github 334 Solution]
 - [LeetCode Q34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/),
-  [Github  Solution]
+  [Github 34 Solution]
 - [LeetCode Q122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/),
-  [Github  Solution]
+  [Github 122 Solution]
 
 ## String
 ### Easy:
