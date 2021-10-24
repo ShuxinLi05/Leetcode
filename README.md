@@ -5,16 +5,16 @@
 - [LeetCode Q1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/); [Github 1920 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/BuildArrayfromPermutation/src/com/company/Main.java)
 - [LeetCode Q1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/); [Github 1929 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/ConcatenationOfArray/src/com/company/Main.java)
 - [LeetCode Q243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/); [Github 243 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/ShortestWordDistance/src/com/company/Main.java)
-- [LeetCode Q283. Move Zeroes](https://leetcode.com/problems/move-zeroes/); [Github 83 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MoveZeroes/src/com/company/Main.java)
+- [LeetCode Q283. Move Zeroes](https://leetcode.com/problems/move-zeroes/); [Github 283 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MoveZeroes/src/com/company/Main.java)
 - [LeetCode Q88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/); [Github 88 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MergeSortedArray/src/com/company/Main.java)
-- [LeetCode Q1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
-- [LeetCode Q628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
-- [LeetCode Q268. Missing Number](https://leetcode.com/problems/missing-number/)
-- [LeetCode Q217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [LeetCode Q283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
-- [LeetCode Q448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
-- [LeetCode Q136. Single Number](https://leetcode.com/problems/single-number/)
-- [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/);[Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
+- [LeetCode Q1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/); [Github 1636 Solution]
+- [LeetCode Q628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/); [Github 628 Solution]
+- [LeetCode Q268. Missing Number](https://leetcode.com/problems/missing-number/); [Github 268 Solution]
+- [LeetCode Q217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/); [Github 217 Solution]
+- [LeetCode Q448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/); [Github 448 Solution]
+- [LeetCode Q228. Summary Ranges](https://leetcode.com/problems/summary-ranges/); [Github 228 Solution]
+- [LeetCode Q136. Single Number](https://leetcode.com/problems/single-number/); [Github 136 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SingleNumber/src/com/company/Main.java)
+- [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/); [Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
 
 - [LeetCode Q]()
 
