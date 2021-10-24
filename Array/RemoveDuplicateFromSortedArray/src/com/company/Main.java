@@ -1,5 +1,6 @@
 package com.company;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Main {
@@ -13,16 +14,17 @@ public class Main {
     }
     public static int removeDuplicates(int[] nums) {
         if(nums.length == 0){
-            return 0;
+            return nums.length;
         }
-        int p1 = 0;
-        for (int p2 = 1; p2 < nums.length; p2++){
-            if(nums[p2]!= nums[p1]){
-                p1++;
-                nums[p1] = nums[p2];
+        int i = 0;
+        for (int j = 1; j < nums.length; j++){
+            if(nums[j]!= nums[i]){
+                i++;
+                nums[i] = nums[j];
             }
         }
-        return p1 + 1;
+        return i + 1;
     }
 
 }
+
