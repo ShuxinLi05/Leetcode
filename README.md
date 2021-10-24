@@ -38,8 +38,6 @@
   [Github 33 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SearchinRotatedSortedArray/src/com/company/Main.java)
 - [LeetCode Q215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/),
   [Github 215 Solution]
-- [LeetCode Q33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/),
-  [Github 33 Solution]
 - [LeetCode Q56. Merge Intervals](https://leetcode.com/problems/merge-intervals/),
   [Github 56 Solution]
 - [LeetCode Q15. 3Sum](https://leetcode.com/problems/3sum/),
