@@ -12,7 +12,7 @@
 - [LeetCode Q268. Missing Number](https://leetcode.com/problems/missing-number/); [Github 268 Solution]
 - [LeetCode Q217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/); [Github 217 Solution]
 - [LeetCode Q448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/); [Github 448 Solution]
-- [LeetCode Q228. Summary Ranges](https://leetcode.com/problems/summary-ranges/); [Github 228 Solution]
+- [LeetCode Q228. Summary Ranges](https://leetcode.com/problems/summary-ranges/); [Github 228 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SummaryRanges/src/com/company/Main.java)
 - [LeetCode Q136. Single Number](https://leetcode.com/problems/single-number/); [Github 136 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SingleNumber/src/com/company/Main.java)
 - [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/); [Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
 
@@ -27,11 +27,11 @@
 - [LeetCode Q415. Add Strings](https://leetcode.com/problems/add-strings/); [Github 415 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/AddString/src/com/company/Main.java)
 - [LeetCode Q125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/); [Github 125 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ValidPalindrome/src/com/company/Main.java)
 - [LeetCode Q28. Implement strStr()](https://leetcode.com/problems/implement-strstr/); [Github 28 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ImplementStr/src/com/company/Main.java)
-- [LeetCode Q696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)
-- [LeetCode Q13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
-- [LeetCode Q680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-- [LeetCode Q14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
-- [LeetCode Q387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+- [LeetCode Q696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/); [Github 696 Solution]
+- [LeetCode Q13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/); [Github 13 Solution]
+- [LeetCode Q680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/); [Github 680 Solution]
+- [LeetCode Q14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/); [Github 14 Solution]
+- [LeetCode Q387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/); [Github 387 Solution]
 - [LeetCode Q]()
 
 
@@ -51,7 +51,7 @@
 
 ## Binary Search
 ### Easy:
-- [LeetCode Q278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [LeetCode Q278. First Bad Version](https://leetcode.com/problems/first-bad-version/); [Github 278 Solution]
 
 
 
