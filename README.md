@@ -93,8 +93,6 @@
   [Github 443 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/StringCompression/src/com/company/Main.java)
 - [LeetCode Q43. Multiply Strings](https://leetcode.com/problems/multiply-strings/),
   [Github 43 Solution]
-- [LeetCode Q443. String Compression](https://leetcode.com/problems/string-compression/),
-  [Github 443 Solution]
 - [LeetCode Q423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/),
   [Github 423 Solution]
 - [LeetCode Q767. Reorganize String](https://leetcode.com/problems/reorganize-string/),
