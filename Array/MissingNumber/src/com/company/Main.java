@@ -26,8 +26,7 @@ public class Main {
             set.add(x);
         }
 
-        int newCount = nums.length + 1;
-        for(int i = 0; i < newCount; i++){
+        for(int i = 0; i <= nums.length; i++){
             if(!set.contains(i)){
                 return i;
             }
