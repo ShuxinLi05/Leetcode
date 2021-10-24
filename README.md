@@ -99,6 +99,8 @@
   [Github 49 Solution]
 - [LeetCode Q3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/),
   [Github 3 Solution]
+- [LeetCode Q809. Expressive Words](https://leetcode.com/problems/expressive-words/),
+  [Github 809 Solution]
 
 
 ## Matrix
