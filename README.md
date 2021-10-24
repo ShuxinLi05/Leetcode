@@ -19,7 +19,7 @@
 - [LeetCode Q268. Missing Number](https://leetcode.com/problems/missing-number/),
   [Github 268 Solution]
 - [LeetCode Q217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/),
-  [Github 217 Solution]
+  [Github 217 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/ContainDuplicate/src/com/company/Main.java)
 - [LeetCode Q448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/),
   [Github 448 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/FindAllNumbersDisaInArray/src/com/company/Main.java)
 - [LeetCode Q228. Summary Ranges](https://leetcode.com/problems/summary-ranges/),
