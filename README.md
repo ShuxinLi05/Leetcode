@@ -11,7 +11,6 @@
 - [LeetCode Q628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/); [Github 628 Solution]
 - [LeetCode Q268. Missing Number](https://leetcode.com/problems/missing-number/); [Github 268 Solution]
 - [LeetCode Q217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/); [Github 217 Solution]
-- [LeetCode Q283. Move Zeroes](https://leetcode.com/problems/move-zeroes/); [Github 283 Solution]
 - [LeetCode Q448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/); [Github 448 Solution]
 - [LeetCode Q228. Summary Ranges](https://leetcode.com/problems/summary-ranges/); [Github 228 Solution]
 - [LeetCode Q136. Single Number](https://leetcode.com/problems/single-number/); [Github 136 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SingleNumber/src/com/company/Main.java)
