@@ -32,7 +32,18 @@
 - [LeetCode Q]()
 
 ### Medium:
-- [LeetCode Q33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/); [Github 33 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SearchinRotatedSortedArray/src/com/company/Main.java)
+- [LeetCode Q33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/),
+  [Github 33 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SearchinRotatedSortedArray/src/com/company/Main.java)
+- [LeetCode Q](),
+  [Github  Solution]
+- [LeetCode Q](),
+  [Github  Solution]
+- [LeetCode Q](),
+  [Github  Solution]
+- [LeetCode Q](),
+  [Github  Solution]
+- [LeetCode Q](),
+  [Github  Solution]
 
 ## String
 ### Easy:
@@ -56,13 +67,29 @@
   [Github 387 Solution]
 - [LeetCode Q]()
 
-
-
 ### Medium:
 - [LeetCode Q151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/),
   [Github 151 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ReverseWordsInAString/src/com/company/Main.java)
 - [LeetCode Q443. String Compression](https://leetcode.com/problems/string-compression/),
   [Github 443 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/StringCompression/src/com/company/Main.java)
+- [LeetCode Q43. Multiply Strings](https://leetcode.com/problems/multiply-strings/),
+  [Github 43 Solution]
+- [LeetCode Q443. String Compression](https://leetcode.com/problems/string-compression/),
+  [Github 443 Solution]
+- [LeetCode Q423. Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/),
+  [Github 423 Solution]
+- [LeetCode Q767. Reorganize String](https://leetcode.com/problems/reorganize-string/),
+  [Github 767 Solution]
+- [LeetCode Q49. Group Anagrams](https://leetcode.com/problems/group-anagrams/),
+  [Github 49 Solution]
+- [LeetCode Q3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/),
+  [Github 3 Solution]
+- [LeetCode Q](),
+  [Github  Solution]
+- [LeetCode Q](),
+  [Github  Solution]
+- [LeetCode Q](),
+  [Github  Solution]
 
 ## Matrix
 ### Easy:
