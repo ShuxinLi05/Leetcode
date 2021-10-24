@@ -28,21 +28,41 @@
   [Github 136 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SingleNumber/src/com/company/Main.java)
 - [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/),
   [Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
-
-- [LeetCode Q]()
+- [LeetCode Q](),
+  [Github  Solution]
+- [LeetCode Q](),
+  [Github  Solution]
 
 ### Medium:
 - [LeetCode Q33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/),
   [Github 33 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SearchinRotatedSortedArray/src/com/company/Main.java)
-- [LeetCode Q](),
+- [LeetCode Q215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/),
+  [Github 215 Solution]
+- [LeetCode Q33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/),
+  [Github 33 Solution]
+- [LeetCode Q56. Merge Intervals](https://leetcode.com/problems/merge-intervals/),
+  [Github 56 Solution]
+- [LeetCode Q15. 3Sum](https://leetcode.com/problems/3sum/),
+  [Github 15 Solution]
+- [LeetCode Q811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/),
+  [Github 811 Solution]
+- [LeetCode Q1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/),
   [Github  Solution]
-- [LeetCode Q](),
+- [LeetCode Q189. Rotate Array](https://leetcode.com/problems/rotate-array/),
+  [Github 189 Solution]
+- [LeetCode Q162. Find Peak Element](https://leetcode.com/problems/find-peak-element/),
+  [Github 162 Solution]
+- [LeetCode Q75. Sort Colors](https://leetcode.com/problems/sort-colors/),
+  [Github 75 Solution]
+- [LeetCode Q238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/),
+  [Github 238 Solution]
+- [LeetCode Q73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/),
+  [Github 73 Solution]
+- [LeetCode Q334. Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/),
   [Github  Solution]
-- [LeetCode Q](),
+- [LeetCode Q34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/),
   [Github  Solution]
-- [LeetCode Q](),
-  [Github  Solution]
-- [LeetCode Q](),
+- [LeetCode Q122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/),
   [Github  Solution]
 
 ## String
@@ -65,7 +85,6 @@
   [Github 14 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/LongestCommonPrefix/src/com/company/Main.java)
 - [LeetCode Q387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/),
   [Github 387 Solution]
-- [LeetCode Q]()
 
 ### Medium:
 - [LeetCode Q151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/),
@@ -84,12 +103,7 @@
   [Github 49 Solution]
 - [LeetCode Q3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/),
   [Github 3 Solution]
-- [LeetCode Q](),
-  [Github  Solution]
-- [LeetCode Q](),
-  [Github  Solution]
-- [LeetCode Q](),
-  [Github  Solution]
+
 
 ## Matrix
 ### Easy:
