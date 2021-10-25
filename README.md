@@ -32,8 +32,7 @@
   [Github 1748 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SumOfUniqueElements/src/com/company/Main.java)
 - [LeetCode Q977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/),
   [Github 977 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SquaresOfSortedArray/src/com/company/Main.java)
-- [LeetCode Q],
-  [Github  Solution]
+- [HW Q.First Non-Repeated Integer In an Array](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/FirstNonRepeatedIntegerInArray/src/com/company/Main.java)
 - [LeetCode Q],
   [Github  Solution]
 - [LeetCode Q],
