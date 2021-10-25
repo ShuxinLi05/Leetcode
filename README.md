@@ -88,7 +88,7 @@
 - [LeetCode Q14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/),
   [Github 14 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/LongestCommonPrefix/src/com/company/Main.java)
 - [LeetCode Q387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/),
-  [Github 387 Solution]
+  [Github 387 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/FirstUniqueCharInString/src/com/company/Main.java)
 - [LeetCode Q383. Ransom Note](https://leetcode.com/problems/ransom-note/),
   [Github 383 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/RansomNote/src/com/company/Main.java)
 
