@@ -76,7 +76,7 @@
 - [LeetCode Q696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/),
   [Github 696 Solution]
 - [LeetCode Q13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/),
-  [Github 13 Solution]
+  [Github 13 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/RomanToInteger/src/com/company/Main.java)
 - [LeetCode Q680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/),
   [Github 680 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ValidPalindromeII/src/com/company/Main.java)
 - [LeetCode Q14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/),
