@@ -28,6 +28,12 @@
   [Github 136 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SingleNumber/src/com/company/Main.java)
 - [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/),
   [Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
+- [LeetCode Q1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/),
+  [Github  Solution]
+- [LeetCode Q977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/),
+  [Github  Solution]
+- [LeetCode Q],
+  [Github  Solution]
 - [LeetCode Q],
   [Github  Solution]
 - [LeetCode Q],
@@ -74,7 +80,7 @@
 - [LeetCode Q28. Implement strStr()](https://leetcode.com/problems/implement-strstr/),
   [Github 28 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ImplementStr/src/com/company/Main.java)
 - [LeetCode Q696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/),
-  [Github 696 Solution]
+  [Github 696 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/CountBinarySubstrings/src/com/company/Main.java)
 - [LeetCode Q13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/),
   [Github 13 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/RomanToInteger/src/com/company/Main.java)
 - [LeetCode Q680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/),
@@ -83,6 +89,8 @@
   [Github 14 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/LongestCommonPrefix/src/com/company/Main.java)
 - [LeetCode Q387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/),
   [Github 387 Solution]
+- [LeetCode Q383. Ransom Note](https://leetcode.com/problems/ransom-note/),
+  [Github  Solution]
 
 ### Medium:
 - [LeetCode Q151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/),
