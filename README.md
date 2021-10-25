@@ -74,7 +74,7 @@
 - [LeetCode Q28. Implement strStr()](https://leetcode.com/problems/implement-strstr/),
   [Github 28 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/ImplementStr/src/com/company/Main.java)
 - [LeetCode Q696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/),
-  [Github 696 Solution]
+  [Github 696 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/CountBinarySubstrings/src/com/company/Main.java)
 - [LeetCode Q13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/),
   [Github 13 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/RomanToInteger/src/com/company/Main.java)
 - [LeetCode Q680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/),
