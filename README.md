@@ -13,7 +13,7 @@
 - [LeetCode Q88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/),
   [Github 88 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MergeSortedArray/src/com/company/Main.java)
 - [LeetCode Q1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/),
-  [Github 1636 Solution]
+  [Github 1636 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SortArrByIncreasingFreq/src/com/company/Main.java)
 - [LeetCode Q628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/),
   [Github 628 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MaxProdOfThreeNumbs/src/com/company/Main.java)
 - [LeetCode Q268. Missing Number](https://leetcode.com/problems/missing-number/),
