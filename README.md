@@ -90,6 +90,8 @@
   [Github 387 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/FirstUniqueCharInString/src/com/company/Main.java)
 - [LeetCode Q383. Ransom Note](https://leetcode.com/problems/ransom-note/),
   [Github 383 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/String/RansomNote/src/com/company/Main.java)
+- [HW Q Letter Followed By Digit](https://github.com/ShuxinLi05/Leetcode/blob/main/String/LetterFollowedByDigit/src/com/company/Main.java)
+  
 
 ### Medium:
 - [LeetCode Q151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/),
