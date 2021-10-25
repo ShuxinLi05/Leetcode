@@ -28,9 +28,9 @@
   [Github 136 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SingleNumber/src/com/company/Main.java)
 - [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/),
   [Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
-- [LeetCode Q](),
+- [LeetCode Q],
   [Github  Solution]
-- [LeetCode Q](),
+- [LeetCode Q],
   [Github  Solution]
 
 ### Medium:
