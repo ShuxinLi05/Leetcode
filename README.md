@@ -29,9 +29,9 @@
 - [LeetCode Q26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/),
   [Github 26 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/RemoveDuplicateFromSortedArray/src/com/company/Main.java)
 - [LeetCode Q1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/),
-  [Github  Solution]
+  [Github 1748 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/SumOfUniqueElements/src/com/company/Main.java)
 - [LeetCode Q977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/),
-  [Github  Solution]
+  [Github 977 Solution]
 - [LeetCode Q],
   [Github  Solution]
 - [LeetCode Q],
