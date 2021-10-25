@@ -15,7 +15,7 @@
 - [LeetCode Q1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/),
   [Github 1636 Solution]
 - [LeetCode Q628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/),
-  [Github 628 Solution]
+  [Github 628 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MaxProdOfThreeNumbs/src/com/company/Main.java)
 - [LeetCode Q268. Missing Number](https://leetcode.com/problems/missing-number/),
   [Github 268 Solution](https://github.com/ShuxinLi05/Leetcode/blob/main/Array/MissingNumber/src/com/company/Main.java)
 - [LeetCode Q217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/),
