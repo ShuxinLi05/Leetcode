@@ -31,6 +31,7 @@ public class Main {
             }
         }
         result.add(curr);
+
         return result.toArray(new int[result.size()][2]);
     }
 }
